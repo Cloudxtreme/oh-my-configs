@@ -1,0 +1,9 @@
+XTerm*renderFont: true
+XTerm*faceName: Droid Sans Mono
+XTerm*faceSize: 10
+
+XTerm*foreground: #ececec 
+XTerm*cursorColor: cyan
+XTerm*background: #202020
+
+XTerm*loginShell: true
